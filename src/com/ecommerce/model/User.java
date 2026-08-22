@@ -1,7 +1,6 @@
 package com.ecommerce.model;
 
 import java.util.*;
-import java.util.concurrent.Semaphore;
 
 class User {
     private int userId;
