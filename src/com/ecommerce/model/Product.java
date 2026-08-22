@@ -1,13 +1,5 @@
 package com.ecommerce.model;
-//Class: Product
-//  - productId (int), name (String), price (double), quantity (int), category (String)
-//  - Constructor with validation
-//  - Setters/Getters
-//  - reduceStock(int amount)
-//  - restockProduct(int amount)
-//  - getProductValue()
-//  - isAvailable()
-//  - toString()
+
 import  java.util.*;
 class Product{
     private int productId;
